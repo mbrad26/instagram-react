@@ -70,13 +70,13 @@ function Header() {
           <NavRight>
             <MenuLink href='#'>
               <Compass />
-            <MenuLink>
+            </MenuLink>
             <MenuLink href='#'>
               <Explore />
-            <MenuLink>
+            </MenuLink>
             <MenuLink href='#'>
               <Avatar />
-            <MenuLink>
+            </MenuLink>
           </NavRight>
       </NavHeader>
     </Nav>
